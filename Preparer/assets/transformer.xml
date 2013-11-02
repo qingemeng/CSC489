@@ -71,5 +71,15 @@ and open the template in the editor.
                 <value>java.lang.String</value>
             </parameter>                                                            
         </parameters>           
-    </component>        
+    </component>   
+    <component>
+        <name>VWAP_CHANGE_CATEGORY</name>
+        <repr>preparer.transformers.VWAPChangeCategory</repr>
+        <parameters>
+            <parameter>
+                <name>VWAP_CHANGE_CATEGORY</name>
+                <value>java.lang.String</value>
+            </parameter>                                                           
+        </parameters>           
+    </component>          
 </components>

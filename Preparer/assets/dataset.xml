@@ -178,7 +178,18 @@
                         <value>VOLUME_CNG</value>
                     </parameter>
                 </parameters>
-            </choice>            
+            </choice>
+            <choice>
+                <name>VWAP_CHANGE_CATEGORY</name>
+                <cluster>DEFAULT</cluster>
+                <worker>VWAP_CHANGE_CATEGORY</worker>
+                <parameters>
+                    <parameter>
+                        <name>VWAP_CHANGE_CATEGORY</name>
+                        <value>VWAP_CHANGE_CATEGORY</value>
+                    </parameter>
+                </parameters>
+            </choice>                         
         </choices>
     </configuration>
     <configuration>
@@ -471,7 +482,7 @@
                     </parameter>
                     <parameter>
                         <name>OUTPUT</name>
-                        <value>VWAP_CHANGE</value>
+                        <value>VWAP_CHANGE_CATEGORY</value>
                     </parameter>
                 </parameters>
             </choice>
