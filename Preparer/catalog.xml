@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Preparer/settings/formats/indicators.xsd" uri="xml-resources/jaxb/Preparer_Indicators/indicators.xsd"/>
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Preparer/settings/formats/selectors.xsd" uri="xml-resources/jaxb/Preparer_Selectors/selectors.xsd"/>
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Preparer/settings/formats/transformers.xsd" uri="xml-resources/jaxb/Preparer_Transformers/transformers.xsd"/>
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Preparer/settings/formats/cleaners.xsd" uri="xml-resources/jaxb/Preparer_Cleaners/cleaners.xsd"/>
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Preparer/settings/formats/separators.xsd" uri="xml-resources/jaxb/Preparer_Separators/separators.xsd"/>
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Preparer/settings/formats/comparers.xsd" uri="xml-resources/jaxb/Preparer_Comparers/comparers.xsd"/>
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Preparer/settings/formats/normalizers.xsd" uri="xml-resources/jaxb/Preparer_Normalizers/normalizers.xsd"/>
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Preparer/settings/formats/dataset.xsd" uri="xml-resources/jaxb/Preparer_Dataset/dataset.xsd"/>
+</catalog>

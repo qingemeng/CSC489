@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Extractor/settings/formats/mappings.xsd" uri="xml-resources/jaxb/Extractor_Mappings/mappings.xsd"/>
+    <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Extractor/settings/formats/definitions.xsd" uri="xml-resources/jaxb/Extractor_Definitions/definitions.xsd"/>
+</catalog>
