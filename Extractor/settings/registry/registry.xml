@@ -38,7 +38,7 @@ and open the template in the editor.
                 <path>D:\同花顺软件\同花顺\history\</path>
             </resource>
             <resource name="RESULT">
-                <path>C:\Users\Meng\Desktop\StockMarketPrediction\Shared\data\original</path>
+                <path>G:\Github\CSC489\Shared\data\original</path>
             </resource>     
         </resources>                     
     </data>

@@ -5,4 +5,8 @@
     <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Shared/assets/jaxb/configuration.xsd" uri="xml-resources/jaxb/Configuration/configuration.xsd"/>
     <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Shared/assets/jaxb/configurations.xsd" uri="xml-resources/jaxb/Configurations/configurations.xsd"/>
     <system systemId="file:/C:/Users/Meng/Desktop/StockMarketPrediction/Shared/assets/jaxb/components.xsd" uri="xml-resources/jaxb/Template_Components/components.xsd"/>
+    <system systemId="file:/G:/Github/CSC489/Shared/assets/jaxb/metadata.xsd" uri="xml-resources/jaxb/Template_Metadata/metadata.xsd"/>
+    <system systemId="file:/G:/Github/CSC489/Shared/assets/jaxb/components.xsd" uri="xml-resources/jaxb/Template_Components/components.xsd"/>
+    <system systemId="file:/G:/Github/CSC489/Shared/assets/jaxb/registry.xsd" uri="xml-resources/jaxb/Template_Registry/registry.xsd"/>
+    <system systemId="file:/G:/Github/CSC489/Shared/assets/jaxb/configurations.xsd" uri="xml-resources/jaxb/Template_Configurations/configurations.xsd"/>
 </catalog>

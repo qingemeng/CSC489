@@ -10,7 +10,7 @@ and open the template in the editor.
            jxb:version="2.0"
            elementFormDefault="qualified">
 
-    <xs:include schemaLocation="C:\Users\Meng\Desktop\WIP\StockMarketPrediction\components\shared\jaxb\adapters.xsd" />
+    <xs:include schemaLocation="G:\Github\CSC489\Shared\assets\jaxb\adapters.xsd" />
     
     <xs:element name="definitions" type="Definitions" />
     
